@@ -1,2 +1,3 @@
-# legal-policies
-Legal compliance documents and policies
+# Legal Policies
+
+Jyrion LLC legal documents.
